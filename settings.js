@@ -4,7 +4,7 @@ const fs = require("fs")
 //aumto presence update
 global.autoTyping = false //auto tying in gc (true to on, false to off)
 global.autoRecord = false //auto recording (true to on, false to off)
-global.autoblockmorroco = false //auto block 212 (true to on, false to off)
+global.autoblockmorroco = true //auto block 212 (true to on, false to off)
 global.autokickmorroco = false //auto kick 212 (true to on, false to off) 
 global.antispam = true //auto kick spammer (true to on, false to off)
 
@@ -25,8 +25,8 @@ global.owner = ['17245423663'] //ur owner number
 global.ownernomer = "17245423663" //ur owner number2
 global.ownername = "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀" //ur owner name
 global.ytname = "YT: Kira" //ur yt chanel name
-global.socialm = "GitHub: toge123456" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.socialm = "GitHub:toge123456" //ur github or insta name
+global.location = "Afrique,Gabon,Libreville" //ur location
 
 //new
 global.botname = "𝙶𝙾𝙹𝙾 𝚂𝙰𝚃𝙾𝚁𝚄"
