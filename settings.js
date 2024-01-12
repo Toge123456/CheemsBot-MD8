@@ -21,27 +21,27 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['17245423663'] //ur owner number
-global.ownernomer = "17245423663" //ur owner number2
-global.ownername = "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀" //ur owner name
+global.owner = ['24105114159'] //ur owner number
+global.ownernomer = "24105114159" //ur owner number2
+global.ownername = "𝔏𝔦𝔬𝔫𝔢𝔩" //ur owner name
 global.ytname = "YT:kenzo3146" //ur yt chanel name
 global.socialm = "GitHub:toge123456" //ur github or insta name
 global.location = "Afrique,Gabon,Libreville" //ur location
 
 //new
-global.botname = "𝙶𝙾𝙹𝙾 𝚂𝙰𝚃𝙾𝚁𝚄"
-global.ownernumber = '17245423663'
-global.ownername = '𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀'
-global.ownerNumber = ["17245423663@s.whatsapp.net"]
+global.botname = "𝚈𝚄𝙼𝙴𝙺𝙾"
+global.ownernumber = '24105114159'
+global.ownername = '𝔏𝔦𝔬𝔫𝔢𝔩'
+global.ownerNumber = ["24105114159@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/CL0rq2IZaUC14T748pthdQ"
-global.themeemoji = '✨'
-global.wm = "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀"
+global.wagc = "https://chat.whatsapp.com/LgmZT8dYbj1Gr4Yz3u3eMT"
+global.themeemoji = '⛥'
+global.wm = "𝚈𝚄𝙼𝙴𝙺𝙾"
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
-global.packname = "𝕋𝕆𝔾𝔼 𝕀ℕ𝕌𝕄𝔸𝕂𝕀"
-global.author = "𝙶𝙾𝙹𝙾 𝚂𝙰𝚃𝙾𝚁𝚄"
-global.creator = "17245423663@s.whatsapp.net"
+global.packname = "𝔏𝔦𝔬𝔫𝔢𝔩"
+global.author = "𝚈𝚄𝙼𝙴𝙺𝙾"
+global.creator = "24105114159@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
